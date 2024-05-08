@@ -66,6 +66,6 @@ x = 'Pear'
 
 If you want further information click on this :arrow_right: [Python Variables](https://www.w3schools.com/python/python_variables.asp)
 
-I'm on linked in, if you'd like to connect :smile: [![Badge](https://img.shields.io/badge/Linked-in-blue)](https://www.linkedin.com/in/sahra-a-91142b173?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+I'm on linkedin, if you'd like to connect :smile: [![Badge](https://img.shields.io/badge/Linked-in-blue)](https://www.linkedin.com/in/sahra-a-91142b173?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
 
