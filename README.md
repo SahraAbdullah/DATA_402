@@ -23,8 +23,8 @@ print(y)
 5   
 John
 
-When you assign a new value to a variable, it can be cghanged because the variable now holds a different value than before
-For example   
+When you assign a new value to a variable, it can be cghanged because the variable now holds a different value than before   
+**Example** :memo:  
 x = Summer   
 x = Winter
 Print(x) 
@@ -32,8 +32,7 @@ Print(x)
 **Output:** Winter
 
 ***DON'T FORGET PYTHON IS CASE SENSITIVE***  
-
-**Example:** 
+**Example** :memo:   
 a = 10   
 A = "Hello"  
 This will not overwrite a because of case sensitivity
@@ -42,13 +41,13 @@ This will not overwrite a because of case sensitivity
 **Casting**   
 If you want to define the type of data a variable holds, you can achieve this by casting.
 
-**Example:** 
+**Example:** :memo:  
 x = str(5) # x will be '3'   
 y = int(3) # y will be 3   
 z = float(3)  # z will be 3.0
 
 you can get the data type by using the type() function.   
-**Example**  
+**Example** :memo:   
 x = 11   
 y = "Macbook"  
 print(type(x))   
@@ -59,7 +58,7 @@ int
 str
 
 String variables can be declared either by using single or double quotes:  
-**Example** 
+**Example** :memo:  
 x = "Apple"  
 x = 'Pear'   
 '' and "" is ~~not~~ the same thing in string.
@@ -67,6 +66,6 @@ x = 'Pear'
 
 If you want further information click on this :arrow_right: [Python Variables](https://www.w3schools.com/python/python_variables.asp)
 
-I'm on linked in, if you'd like to connect :smile: [![Badge](https://img.shields.io/badge/Linked-in-blue)](www.linkedin.com/in/sahra-a-91142b173)
+I'm on linked in, if you'd like to connect :smile: [![Badge](https://img.shields.io/badge/Linked-in-blue)](https://www.linkedin.com/in/sahra-a-91142b173?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
 
