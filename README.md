@@ -1,9 +1,10 @@
  ![](https://www.boardinfinity.com/blog/content/images/2022/11/Your-paragraph-text--60-.jpg)
 
-<div align="center"> MINI GUIDE - PYTHON FUNDAMENTALS :snake: :woman_technologist:   </div align="center">
-### <ins>Variables </ins>
+<div align="center"> MINI GUIDE - PYTHON FUNDAMENTALS :snake: :woman_technologist:   </div align="center">   
 
 
+
+<ins> Variables </ins>
 <p> 
 Variables are containers for storing data values.
 
