@@ -67,6 +67,45 @@ x = 'Pear'
 
 If you want further information click on this :arrow_right: [Python Variables](https://www.w3schools.com/python/python_variables.asp)
 
+**DATA TYPES**
+
+Variables can store data of different type, and different types can do different things.  
+
+Python has the following data types built-in by default:  
+Text Type: str  
+Numeric Types: int, float, complex  
+Sequence Types: list, tuple, range  
+Mapping Type: dict  
+Set Types: set, forzenset 
+Boolean Type: bool 
+Binary Types: bytes, bytearray, memoryview  
+None Type: NoneType  
+
+You can get the data type by using the type()function.  
+Example  
+a = 10
+print(type(a))
+
+OUTPUT: int.  
+
+**STRINGS** 
+
+Strings in python are surrounded by either single quotation marks or double quotation marks.
+
+You can also assign a multiline string to a variable using three quotes or single quotes:  
+Example:  
+a = '''Lorem ipsum dolor sit amet,
+consectetur adipiscing elit,
+sed do eiusmod tempor incididunt
+ut labore et dolore magna aliqua.'''
+print(a)
+
+**CONTROL FLOW**  
+
+Control flow is regulated by barious tyoes of conditional statements, loops and function calls. 
+
+
+
 I'm on linkedin, if you'd like to connect :smile: [![Badge](https://img.shields.io/badge/Linked-in-blue)](https://www.linkedin.com/in/sahra-a-91142b173?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
 
