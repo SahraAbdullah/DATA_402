@@ -15,5 +15,5 @@ What is the JSON syntax for: it is used to define structure and format of the da
 - Name value pairs? name value pairs are fundamental part of JSON syntax. The name(key) is a string that identifies the data, and the value can be any valid JSON data type such as strings, number boolean, array or object. This structure allows for organised and structured data representation.
 - Example: "name": "Sahra"
 - Objects? objects are represented by enclosing the name value pairs within curly braces{}
-- How to separate data objects from one another?  You can separate objects from one another by using using commas. this helos to distinguish and separate different pieces of data within JSON structure.
+- How to separate data objects from one another?  You can separate objects from one another by using commas. this helps to distinguish and separate different pieces of data within JSON structure.
 - JSON arrays (these are like lists in python)? Arrays can be store and ordered collection of values. They are represented using square brackets [] and  can contain valid JSOn data type, such as strings, numbers, booleans, objects or even other arrays.
