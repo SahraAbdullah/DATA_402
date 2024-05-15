@@ -16,4 +16,24 @@ What is the JSON syntax for: it is used to define structure and format of the da
 - Example: "name": "Sahra"
 - Objects? objects are represented by enclosing the name value pairs within curly braces{}
 - How to separate data objects from one another?  You can separate objects from one another by using commas. this helps to distinguish and separate different pieces of data within JSON structure.
-- JSON arrays (these are like lists in python)? Arrays can be store and ordered collection of values. They are represented using square brackets [] and  can contain valid JSOn data type, such as strings, numbers, booleans, objects or even other arrays.
+- JSON arrays (these are like lists in python)? Arrays can be store and ordered collection of values. They are represented using square brackets [] and  can contain valid JSOn data type, such as strings, numbers, booleans, objects or even other arrays.  
+
+
+## APIS
+
+![DIAGRAM](https://blog.hubspot.com/hs-fs/hubfs/Google%20Drive%20Integration/api%20diagram.png?width=1300&height=874&name=api%20diagram.png)
+
+What are APIs? Application Programming Interfaces, are a way to use different software applications to communicate and interact with each other.  
+
+How are APIs used and why are they popular?  They allow developers to access and utilize functionalities and data from other applications or serviceS without having to build everything from scratch. This saves time and effort , enabling faster development and integration of different software components. APIs are popular because they promote modularity and reusability. Also, enables seamless integration between systems, making it easier to connect and exchange data between applications. Additionally, APIs facilitates collaboration and innovation  by enabling developers to build on top of existing platforms, creating new applications and functionalities.
+
+
+What are REST APIs? What makes an API Restful?  Representational State Transfer APIs. A RESTful API is considered RESTful when it adheres to these principles, inclduing a client-server architecture, statelessness and the use of standard HTTP methods.
+
+ 
+What is HTTP?  Hypertext Transfer Protocol
+
+
+What are the 5 HTTP verbs? GET, POST, PUT, DELETE AND PATCH
+
+![DIAGRAM](https://media.geeksforgeeks.org/wp-content/uploads/20210905091508/ImageOfHTTPRequestResponse-660x374.png)
